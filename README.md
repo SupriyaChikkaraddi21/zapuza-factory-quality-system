@@ -143,7 +143,7 @@ venv\Scripts\activate.bat
 Install the backend dependencies:
 
 ```bash
-pip install django djangorestframework django-cors-headers
+pip install -r requirements.txt
 ```
 
 Apply database migrations:
